@@ -22,7 +22,7 @@ This is Manoj Routhu pursuing gradation in the field of computer science and eng
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj-Routhu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Let's connect
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Manoj-Routhu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/manoj-routhu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/manoj_routhu/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Manoj-Routhu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/manoj-routhu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/manoj_routhu/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/manoj_routhu)
 
 
 feel free to shoot me a mail:manojrouthu26@gmail.com
