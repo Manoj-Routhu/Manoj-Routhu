@@ -14,6 +14,7 @@ This is Manoj Routhu pursuing gradation in the field of computer science and eng
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="35px" align="left"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="pytorch" width="35px" align="left"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="45px" align="left"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="SQL" width="50px" align="left"/>
 </p>
 <br>
 
