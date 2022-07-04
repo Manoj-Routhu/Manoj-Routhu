@@ -1,4 +1,4 @@
-# Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+# Hola 
 This is Manoj Routhu pursuing gradation in the field of computer science and engineering.<!--![Github gif](https://user-images.githubusercontent.com/78267609/149504060-b7e1a6b1-d080-4e96-9d96-f1833bd6c919.gif)-->
 ## I am currently working on 
  - Open source contributions
