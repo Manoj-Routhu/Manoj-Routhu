@@ -19,7 +19,7 @@ This is Manoj Routhu pursuing gradation in the field of computer science and eng
 <br>
 
 ## Profile Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Manoj-Routhu&show_icons=true&theme=prussian" />
+![Manoj-Routhu's github stats](https://github-readme-stats.vercel.app/api?username=Manoj-Routhu&show_icons=true&theme=prussian)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj-Routhu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
