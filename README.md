@@ -30,7 +30,8 @@ I'm Manoj and I'm a senior pursuing B.Tech in Computer Science & Engineering. I 
 - ⚡ Fun fact: Listening music and doing immensed imagination.
 
 ## Let's connect
-[<img src='https://img.icons8.com/glyph-neue/64/000000/github.png' alt='github' height='40'>](https://github.com/Manoj-Routhu)  [<img src='https://img.icons8.com/color/48/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/manoj-routhu)  [<img src='https://img.icons8.com/color/48/instagram-new--v1.png' alt='instagram' height='40'>](https://www.instagram.com/manoj_routhu/)   [<img src='https://img.icons8.com/color/48/twitter--v1.png' alt='twitter' height='40'>](https://twitter.com/manoj_routhu)
+[<img src='https://github.com/Manoj-Routhu/Manoj-Routhu/assets/78267609/b005266b-1759-450e-a733-44e136aef455' alt='github' height='40'>](https://github.com/Manoj-Routhu)  [<img src='https://img.icons8.com/color/48/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/manoj-routhu)  [<img src='https://img.icons8.com/color/48/instagram-new--v1.png' alt='instagram' height='40'>](https://www.instagram.com/manoj_routhu/)   [<img src='https://img.icons8.com/color/48/twitter--v1.png' alt='twitter' height='40'>](https://twitter.com/manoj_routhu) [<img src='https://github.com/Manoj-Routhu/Manoj-Routhu/assets/78267609/5c2e249f-90ac-4255-a025-908a4a0fcee4' alt='website' height='40'>](https://green-smoke-08634d40f.5.azurestaticapps.net/)
+
 
 ## Profile Stats
 ![Manoj-Routhu's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Manoj-Routhu&show_icons=true&theme=prussian)
