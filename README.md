@@ -1,7 +1,6 @@
 # Hola!
 ## About me
-This is Manoj Routhu pursuing gradation in the field of computer science and engineering.<!--![Github gif](https://user-images.githubusercontent.com/78267609/149504060-b7e1a6b1-d080-4e96-9d96-f1833bd6c919.gif)-->
-I'm Manoj and I'm a senior pursuing B.Tech in Computer Science & Engineering. I am very passionate about Machine Learning, Neural Networks, and Data Science in addition to a leisurely and keen interest in Research. I am actively pursuing several courses on online resources and projects in order to develop my skills. I really enjoy learning languages and frameworks like Python and TensorFlow. I also dabble in web devlopment from time to time.
+This is Manoj Routhu Manoj Routhu, a Machine Learning Engineer passionate about turning complex data into practical AI solutions. With experience in software development, AI research, and deep learning projects, I enjoy building scalable and efficient models that solve real-world problems. I love exploring new technologies, contributing to open-source, and constantly learning to improve. Feel free to check out my projects and connect—I’m always excited to collaborate and create impactful tech.<!--![Github gif](https://user-images.githubusercontent.com/78267609/149504060-b7e1a6b1-d080-4e96-9d96-f1833bd6c919.gif)-->
 <!-- ## I am currently working on 
  - Open source contributions
  - Personal projects
